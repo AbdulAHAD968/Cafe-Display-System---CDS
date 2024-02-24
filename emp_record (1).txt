@@ -1,0 +1,36 @@
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 2
+TOTAL PRICE EARNED =/ :260
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 0
+TOTAL PRICE EARNED =/ :0
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 3
+TOTAL PRICE EARNED =/ :1400
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 1
+TOTAL PRICE EARNED =/ :250
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 3
+TOTAL PRICE EARNED =/ :2700
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 0
+TOTAL PRICE EARNED =/ :0
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 0
+TOTAL PRICE EARNED =/ :0
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 1
+TOTAL PRICE EARNED =/ :4000
+--------------------------------------------------
+RECIEVED BY : employee1
+NUMBER OF PRODUCTS : 3
+TOTAL PRICE EARNED =/ :10850
+--------------------------------------------------
